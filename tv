@@ -1,0 +1,88 @@
+#EXTM3U
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9kp68rx.png", TV+ | FHD | Santiago
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AlAXBgI.png", Corcubío | HD | Concepción
+http://45.225.95.154:8081/mcg/corcubio/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8ZR2XHN.png", TVN3 | FHD | Santiago
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/N9VL9Hq.png", La Red | HD | Santiago
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PjAS6V9.png", UCV | HD | Valparaíso
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/6EHqEs2.png", NTV | HD | Santiago
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Vt424Nn.png", TVN Chile | HD | Santiago
+https://marine2.miplay.cl/tvnchile/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/xT96FzL.png", Bio Bio TV | FHD | Santiago
+ https://jireh-1-hls-video-cl-movistar.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CVImFf1.png", Canal 9 Bio Bio | HD | Concepción
+https://unlimited1-cl-isp.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/a6m1yWP.png", Mega | SD | Santiago
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nlLc8GA.png", Chilevisión | FHD | Santiago
+https://jireh-2-hls-video-cl-movistar.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_4000.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/IWulKg2.png", Universidad de Chile TV | FHD | Santiago
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/A4qzem2.png", Canal 13  | HD | Santiago
+https://m3u.cl/channel/c13.php
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GyTo4Qw.png", Tele 13 | FHD | Santiago
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/x68lG59.png", Antofagasta TV | FHD | Antofagasta
+https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/S5eaLyS.png", CGTN en español | SD | China
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YqFOB1h.png", DW en español | FHD | Alemania
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AuTwvOW.png", Iglesia en San Bernardo | HD | Chile
+https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/4Wi6WcF.png", Dreiko TV | HD | Panamá
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/wOc2Bx3.png", Moni TV | FHD | Chile
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OR6mxRB.png", Energeek | FHD | Chile
+https://wifiexpert-1.energeek.cl/energeek/canal-1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zEjHUot.png", Canal 4 Jujuy  | HD | Argentina
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bcr0njT.png", TVN Panamá | HD | Panamá
+https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9E9h3Gd.png", Latina TV | HD | Lima
+https://live-zlr1.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XMWvZ36.jpg", Kronehit| HD | Austria
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/QlG4uOO.png", Cámara de Diputados TV | HD | Valparaíso
+https://camara.03.wl.cdnz.cl/camara19/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RU7jA3I.png", 1Muz | HD | Bielorrusia
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/a8Wirrz.png", TV Senado | SD | Valparaíso
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
+
+
